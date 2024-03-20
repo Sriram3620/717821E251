@@ -1,0 +1,19 @@
+.bg-con
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding: 30px;
+}
+.Con
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.option
+{
+    padding: 10px;
+}
